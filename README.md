@@ -146,6 +146,7 @@ A: 支持所有 FFmpeg 支持的格式，包括 MP4, AVI, MKV, MOV, FLV, WMV 等
 ## 📧 联系
 
 如有问题或建议，欢迎提交 Issue，或者在我的博客中评论。
+博客：https://www.jiangxiubai.me/
 
 ---
 
